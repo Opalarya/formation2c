@@ -16,5 +16,5 @@ const b2cPolicies = {
             authority: "https://lauratamburinissg.b2clogin.com/lauratamburinissg.onmicrosoft.com/B2C_1_profileediting1-lti"
         }
     },
-    authorityDomain: "fabrikamb2c.b2clogin.com"
+    authorityDomain: "lauratamburinissg.b2clogin.com"
 }
